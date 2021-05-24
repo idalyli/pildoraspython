@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72468438-7c3b-497d-8b23-91d2cafde97e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rx3rn9mDD5OdKV0ZvSJPVueVTz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ejemplo_doctest">
+    <configuration name="ejemplo_decorador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcioneslambda" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcioneslambda/ejemplo_decorador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejemplo_doctest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcioneslambda" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcioneslambda/ejemplo_doctest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejemplo_documentacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcioneslambda" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcioneslambda/ejemplo_documentacion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practica_map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcioneslambda" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcioneslambda/practica_map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practica_regex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcioneslambda" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcioneslambda/practica_regex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ejemplo_doctest" />
+        <item itemvalue="Python.ejemplo_documentacion" />
+        <item itemvalue="Python.ejemplo_decorador" />
+        <item itemvalue="Python.practica_regex" />
+        <item itemvalue="Python.practica_map" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72468438-7c3b-497d-8b23-91d2cafde97e" name="Default Changelist" comment="" />
+      <created>1619904114943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619904114943</updated>
+      <workItem from="1619904133709" duration="194000" />
+      <workItem from="1620234009925" duration="7885000" />
+      <workItem from="1620938674800" duration="599000" />
+      <workItem from="1621265073624" duration="4533000" />
+      <workItem from="1621293214298" duration="2404000" />
+      <workItem from="1621349011357" duration="5906000" />
+      <workItem from="1621438420876" duration="4733000" />
+      <workItem from="1621456819437" duration="9443000" />
+      <workItem from="1621521999192" duration="5312000" />
+      <workItem from="1621552233480" duration="6094000" />
+      <workItem from="1621613731487" duration="3034000" />
+      <workItem from="1621631906931" duration="8811000" />
+      <workItem from="1621811281304" duration="8000" />
+      <workItem from="1621871167368" duration="8306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="248" key="#Inspections" timestamp="1620234549437">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="766" y="248" key="#Inspections/0.0.1920.1035@0.0.1920.1035" timestamp="1620234549437" />
+    <state x="1284" y="456" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620250108702">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="1284" y="456" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1035@0.0.1920.1035" timestamp="1620250108702" />
+    <state x="1111" y="415" key="FileChooserDialogImpl" timestamp="1619904295908">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="1111" y="415" key="FileChooserDialogImpl/0.0.1920.1035@0.0.1920.1035" timestamp="1619904295908" />
+    <state width="1336" height="294" key="GridCell.Tab.0.bottom" timestamp="1621896437098">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1336" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1035@0.0.1920.1035" timestamp="1621896437098" />
+    <state width="1336" height="294" key="GridCell.Tab.0.center" timestamp="1621896437097">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1336" height="294" key="GridCell.Tab.0.center/0.0.1920.1035@0.0.1920.1035" timestamp="1621896437097" />
+    <state width="1336" height="294" key="GridCell.Tab.0.left" timestamp="1621896437096">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1336" height="294" key="GridCell.Tab.0.left/0.0.1920.1035@0.0.1920.1035" timestamp="1621896437096" />
+    <state width="1336" height="294" key="GridCell.Tab.0.right" timestamp="1621896437097">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="1336" height="294" key="GridCell.Tab.0.right/0.0.1920.1035@0.0.1920.1035" timestamp="1621896437097" />
+    <state x="634" y="202" key="SettingsEditor" timestamp="1620234564248">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="634" y="202" key="SettingsEditor/0.0.1920.1035@0.0.1920.1035" timestamp="1620234564248" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$trabajo_serializacion.coverage" NAME="trabajo_serializacion Coverage Results" MODIFIED="1620250778844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$primera_interface.coverage" NAME="primera_interface Coverage Results" MODIFIED="1621350211739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graficos" />
+    <SUITE FILE_PATH="coverage/python$practica_filter.coverage" NAME="practica_filter Coverage Results" MODIFIED="1621639022836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcioneslambda" />
+    <SUITE FILE_PATH="coverage/python$practica_map.coverage" NAME="practica_map Coverage Results" MODIFIED="1621639851449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcioneslambda" />
+    <SUITE FILE_PATH="coverage/python$practicalabel.coverage" NAME="practicalabel Coverage Results" MODIFIED="1621367504003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graficos" />
+    <SUITE FILE_PATH="coverage/python$ejemplo_decorador.coverage" NAME="ejemplo_decorador Coverage Results" MODIFIED="1621872041529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcioneslambda" />
+    <SUITE FILE_PATH="coverage/python$calculadora.coverage" NAME="calculadora Coverage Results" MODIFIED="1621463963091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graficos" />
+    <SUITE FILE_PATH="coverage/python$practica_lambda.coverage" NAME="practica_lambda Coverage Results" MODIFIED="1621634099515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcioneslambda" />
+    <SUITE FILE_PATH="coverage/python$ejemplo_documentacion.coverage" NAME="ejemplo_documentacion Coverage Results" MODIFIED="1621891327029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcioneslambda" />
+    <SUITE FILE_PATH="coverage/python$ejemplo_doctest.coverage" NAME="ejemplo_doctest Coverage Results" MODIFIED="1621894534313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcioneslambda" />
+    <SUITE FILE_PATH="coverage/python$CRUD_guiado.coverage" NAME="CRUD guiado Coverage Results" MODIFIED="1621632080171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basedatos" />
+    <SUITE FILE_PATH="coverage/python$Uso_modulos.coverage" NAME="Uso_modulos Coverage Results" MODIFIED="1620246863221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$manejo_archivos.coverage" NAME="manejo_archivos Coverage Results" MODIFIED="1620250075316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$ejemplo2BBDD.coverage" NAME="ejemplo2BBDD Coverage Results" MODIFIED="1621474352696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basedatos" />
+    <SUITE FILE_PATH="coverage/python$ejemplo1BBDD.coverage" NAME="ejemplo1BBDD Coverage Results" MODIFIED="1621466404707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basedatos" />
+    <SUITE FILE_PATH="coverage/python$serializar_objetos.coverage" NAME="serializar_objetos Coverage Results" MODIFIED="1621281044223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$practica_regex.coverage" NAME="practica_regex Coverage Results" MODIFIED="1621647941065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcioneslambda" />
+  </component>
+</project>
